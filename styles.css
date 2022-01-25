@@ -89,6 +89,7 @@ a:active {
   width: 5rem;
   padding: 5px 10px;
   margin-top: 10px;
+  font-weight: bold;
 }
 
 /* Random info section */
@@ -99,12 +100,12 @@ a:active {
   justify-content: flex-start;
   align-items: center;
   background-color: white;
-  height: 27rem;
+  height: 24rem;
 }
 
 .random-info > h2 {
   font-size: 2.25rem;
-  font-weight: 900;
+  font-weight: bold;
 }
 
 .random-info-figures {
@@ -130,4 +131,67 @@ a:active {
   align-items: center;
   margin: 0;
   width: 150px;
+}
+
+/* Quote section */
+
+.quote-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 24rem;
+  background-color: #e5e7eb;
+}
+
+.quote-section figure {
+  display: flex;
+  flex-direction: column;
+  width: 41rem;
+}
+
+.quote-section blockquote {
+  margin: 0;
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+  margin: 0;
+}
+
+.quote-section figcaption {
+  font-weight: bold;
+  margin-left: auto;
+}
+
+/* Call to action section */
+
+.cta-outer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20rem;
+}
+
+.cta-inner {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #3882f6;
+  height: 8rem;
+  width: 80%;
+  color: white;
+  border-radius: 5px;
+}
+
+.cta-text > h2 {
+  margin: 0;
+}
+
+.cta-button {
+  color: white;
+  background-color: #3882f6;
+  border-color: white;
+  border-radius: 5px;
+  padding: 4px 20px;
+  border-style: solid;
+  font-weight: bold;
 }
