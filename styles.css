@@ -2,36 +2,44 @@ body {
   margin: 0;
 }
 
-a,
-a:hover,
-a:focus,
-a:active {
-  text-decoration: none;
-  color: inherit;
-}
-
 .hero {
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
   background-color: #1f2937;
-  height: 400px;
-  padding: 0 20%;
+  height: 350px;
 }
 
-.header {
+header {
   display: flex;
-  height: 20%;
-  width: 100%;
+  align-items: center;
+  width: 80%;
 }
 
-.header-logo {
-  flex: 1;
+.hero-logo {
+  font: bold 24px "Roboto", sans-serif;
+  color: #f9faf8;
+}
+
+header > nav {
+  margin-left: auto;
 }
 
 .header-links {
-  flex: 1;
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+a,
+a:hover,
+a:focus,
+a:active {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  color: #e5e7eb;
 }
 
 .hero-content {
