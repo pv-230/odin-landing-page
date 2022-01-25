@@ -177,7 +177,7 @@ a:active {
   align-items: center;
   background-color: #3882f6;
   height: 8rem;
-  width: 80%;
+  width: 50rem;
   color: white;
   border-radius: 5px;
 }
@@ -194,4 +194,13 @@ a:active {
   padding: 4px 20px;
   border-style: solid;
   font-weight: bold;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #e5e7eb;
+  background-color: #1f2937;
+  height: 4rem;
 }
