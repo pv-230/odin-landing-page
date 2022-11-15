@@ -7,6 +7,6 @@ More info here: https://www.theodinproject.com/lessons/foundations-landing-page
 
 ## Comparison
 
-The reference design is on the left and my attempt is on the right, highlighted in red.
+The reference design is on the left in blue and my attempt is on the right, highlighted in red.
 
-![Landing Page Comparison](https://i.imgur.com/68TLSUi.png)
+![Landing Page Comparison](https://i.imgur.com/p5fX8ky.png)
