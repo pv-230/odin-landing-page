@@ -1,2 +1,10 @@
-# odin-landing-page
-https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/landing-page
+## Project description
+This is my attempt at the Landing Page project from The Odin Project. The goal is to replicate the given website design as closely as possible.
+
+More info here: https://www.theodinproject.com/lessons/foundations-landing-page
+
+## Comparison
+
+The reference design is on the left and my attempt is on the right, highlighted in red.
+
+![Landing Page Comparison](https://imgur.com/a/4H5ACTt)
