@@ -7,4 +7,4 @@ More info here: https://www.theodinproject.com/lessons/foundations-landing-page
 
 The reference design is on the left and my attempt is on the right, highlighted in red.
 
-![Landing Page Comparison](https://imgur.com/a/4H5ACTt)
+![Landing Page Comparison](https://i.imgur.com/68TLSUi.png)
