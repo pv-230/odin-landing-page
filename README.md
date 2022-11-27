@@ -1,11 +1,9 @@
-## Project description
+# The Odin Project: Landing Page
 This is my attempt at the Landing Page project from The Odin Project. The goal is to replicate the given website design as closely as possible.
 
-Website link: https://pv-230.github.io/odin-landing-page/
+More information here: https://www.theodinproject.com/lessons/foundations-landing-page
 
-More info here: https://www.theodinproject.com/lessons/foundations-landing-page
-
-## Comparison
+## Screenshot
 
 The reference design is on the left in blue and my attempt is on the right, highlighted in red.
 
